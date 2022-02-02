@@ -1,3 +1,3 @@
 # My Personal Website
-All about Jackfruit
-Ripeness, taste, color, texture, location grown, cost
+To Dance Ecstatic
+Flow, Ritual, Liberating Movement

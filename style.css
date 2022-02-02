@@ -1,3 +1,14 @@
+h1{
+    text-align: center;
+    font-size: 75pt;
+}
 body {
-    padding: 15px
+    padding: 15px;
+}
+#movers {
+    max-width: 1000px;
+    display: block ;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
 }
