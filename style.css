@@ -1,9 +1,17 @@
 h1{
     text-align: center;
     font-size: 75pt;
+    margin-block-end: 20px;
+    margin-block-start: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 body {
-    padding: 15px;
+    padding: 40px;
+    background-color: rgb(255, 228, 139);
+    padding-bottom: 50px;
+    padding-top: 10px;
 }
 #movers {
     max-width: 1000px;
@@ -11,4 +19,11 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding: 50px;
+    background-color: rgb(197, 112, 0);
+}
+div {
+    padding-top: 5px;
+}
+#intro {
+    padding-top: 30px;
 }
